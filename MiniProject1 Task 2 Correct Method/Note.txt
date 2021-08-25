@@ -1,0 +1,3 @@
+NOTE:
+
+This folder contains the code and simulation for Mini Project 1 Task 2, the rest of material was submitted on Portal before last deadline.
